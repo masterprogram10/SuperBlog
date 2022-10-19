@@ -1,5 +1,6 @@
 Esta es la historia de Juan Rueda
 
-Juan tiene 25 años y nacio en Colombia
+Juan tiene 25 años y nacio en Colombia,
+con muchas ganas de APRENDER PROGRAMACION
 
 Hoy hablaremos de su historia.
